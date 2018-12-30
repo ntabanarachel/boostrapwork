@@ -1,0 +1,52 @@
+.jumbotron{
+    background-image: url("../botstrappage/image/back.jpg");
+    background-size: cover;
+}
+.nav ul li {
+    display: inline;
+    margin: 15px;
+}
+.container{
+    margin-top: 25px;
+}
+.text-right{
+    list-style:none;
+     
+
+}
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+
+ 
+.text-left{
+    list-style:none;
+    margin-left: 0px;
+}
+.text-left li{
+    display: inline-block;
+    margin: 10px;
+
+}
+.text-right li a{
+    text-decoration: none;
+}
+.text-left li a{
+    text-decoration: none;
+}
+.footer{
+ background-color: darkgray;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+
+    h5{
+        color:blue;
+    }
+
+    ]
+]
